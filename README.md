@@ -1,4 +1,4 @@
 # vinay-demo
 this is my first project.
 <br>
-this is git and github tutorial.
+this is my first git and github totorial
